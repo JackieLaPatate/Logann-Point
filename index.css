@@ -1,0 +1,15 @@
+h1{
+	font-style: normal;
+}
+
+.gras{
+	font-weight: bold;
+}
+
+.italic{
+	font-style: italic;
+}
+
+body{
+	background-color: aqua; 
+}
